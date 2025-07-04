@@ -10,7 +10,7 @@
 
 游戏界面展示：
 
-![](double tetris/project/png/game interface.png)
+![](image/game interface.png)
 
 ### **2. 核心数据结构**
 
@@ -25,7 +25,7 @@ const int shapes[7][4][4][4]; // [方块类型][旋转状态][4x4矩阵]
 - 每个方块用**4x4矩阵**表示，1表示有方块，0表示空白
 
 
-![](double tetris/project/png/block type.png)
+![](image/block type.png)
 
 #### **(2) 颜色定义**
 
