@@ -10,7 +10,7 @@
 
 游戏界面展示：
 
-![](E:\double tetris\project\png\game interface.png)
+![](./project/png/game interface.png)
 
 ### **2. 核心数据结构**
 
